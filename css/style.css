@@ -60,6 +60,7 @@ a{
 
 .login button{
     font-size: 0.7rem;
+    font-weight: 600;
 }
 
 .btn-grey{
@@ -116,7 +117,7 @@ a{
 .header-center{
     width: 750px;
     min-height: 350px;
-    border: 1px dashed black;
+    /* border: 1px dashed black; */
     text-align: center;
     line-height: 28px;
     /* background-color: #ee82ee; */
